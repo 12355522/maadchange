@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title">General</string>
+    <string name="pref_title_social_recommendations">Allow get root permissions</string>
+    <string name="pref_description_social_recommendations">Use all function need to get root permissions , if you can not use , please install busybox! thanks! </string>
+
+    <string name="pref_title_add_friends_to_messages">Choose game version</string>
+    <string-array name="pref_example_list_titles">
+        <item>Traditional Chinese version</item>
+        <item>Mycard Official Website version</item>
+        <item>China tencent version</item>
+        <item>Official English version</item>
+        <item>Korean Version</item>
+    </string-array>
+    <string-array name="pref_example_list_values">
+        <item>com.madhead.tos.zh</item>
+        <item>com.madhead.tos.zh.ex</item>
+        <item>com.tencent.tmgp.madhead.tos</item>
+        <item>com.madhead.tos.en</item>
+        <item>com.madhead.tos.ko</item>
+    </string-array>
+
+
+    <string name="commadheadtoszh">Traditional Chinese version</string>
+    <string name="commadheadtoszhex">Mycard Official Website version</string>
+    <string name="comtencent">China tencent version</string>
+    <string name="commadheadtosen">Official English version</string>
+    <string name="commadheadtosko">Korean Version</string>
+
+
+    <string name="filemanger_title">The default file location (in development)</string>
+    <string name="filemanger">The current is a default folder, when you select the folder under will choose to create / madchya</string>
+
+    <string name="google_play_title">Help us cheer</string>
+    <string name="google_play">Pleading five stars: D</string>
+
+    <string name="welecome_madchya">Thank you for the years of support and hope you will enjoy this revision!, Very sorry because after so many things that lead to long to make the revision, the revision of the program has been completely rewritten all, if you have any suggestions or find any bug, can send Email for me, thank you again!</string>
+    <string name="welecome_title">Welcome</string>
+    <string name="welecome_setting">First time please go to setting!</string>
+
+    <string name="renewaccount_title">Re-read account</string>
+    <string name="renewaccount_content">Able to re-read the account folders within each account information</string>
+    <string name="renewaccount_already">Has been re-reading the information, please check back</string>
+
+    <string name="pay_title">Sponsorship us</string>
+    <string name="pay_content">If you really like this app, please support us to develop more programs, your lunch money will give every Coder supports a maximum of encouragement, your ad will be remove after the purchase, and after the path, show sponsored version, regardless of the final, still thank you for your support.</string>
+    <string name="certain">Certain</string>
+    <string name="cencle">Cancel</string>
+
+    <string name="pay_complete">Thank you for your purchase, your support will be our motivation</string>
+
+    <string name="addanewaccount">Add a new account</string>
+    <string name="addanewaccount_conetnt">give a name for your account</string>
+
+    <string name="changeaccount">Change the name</string>
+    <string name="changeaccount_content">You can modify a new name for your account</string>
+
+    <string name="deletad">Remove ads</string>
+    <string name="cleartos">Clear Tos Data</string>
+    <string name="version">Version: </string>
+    <string name="path">path: </string>
+    <string name="pro">pro version</string>
+
+    <string name="buildfailed">Account creation failed</string>
+    <string name="buildoks">Account creation  successfully</string>
+
+</resources>

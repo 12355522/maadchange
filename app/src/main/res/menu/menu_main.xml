@@ -1,0 +1,23 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+      xmlns:app="http://schemas.android.com/apk/res-auto"
+      xmlns:tools="http://schemas.android.com/tools"
+      tools:context=".MainActivity">
+    <item android:id="@+id/action_settings"
+          android:title="@string/action_settings"
+          android:icon="@drawable/configs"
+          android:orderInCategory="2"
+          app:showAsAction="ifRoom|withText"/>
+    <item
+        android:id="@+id/action_startgame"
+        android:icon="@drawable/gogame"
+        android:orderInCategory="1"
+        android:title="快速遊戲"
+        app:showAsAction="ifRoom|withText"/>
+
+    <item
+        android:id="@+id/explain"
+        android:icon="@drawable/explain"
+        android:orderInCategory="0"
+        android:title="explain"
+        app:showAsAction="ifRoom|withText"/>
+</menu>

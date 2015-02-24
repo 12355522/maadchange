@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">에노키안의 전설 계정 전환</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="addaccount">Add</string>
+    <string name="title_activity_filemangers">Filemangers</string>
+    <string name="banner_ad_unit_id">ca-app-pub-0912985344228534/5818543149</string>
+</resources>

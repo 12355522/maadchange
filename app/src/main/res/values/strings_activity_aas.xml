@@ -1,0 +1,66 @@
+<resources>
+    <string name="title">General</string>
+    <string name="pref_title_social_recommendations">允許獲取Root權限</string>
+    <string name="pref_description_social_recommendations">所有功能，都需要藉由獲得Root權限才能使用，無法使用時，請安裝busybox!
+    </string>
+
+    <string name="pref_title_add_friends_to_messages">選擇遊戲版本</string>
+    <string-array name="pref_example_list_titles">
+        <item>Google Play版</item>
+        <item>MYCARD官網版</item>
+        <item>中國騰訊版</item>
+        <item>國際官方英文版</item>
+        <item>Korean Version</item>
+    </string-array>
+    <string-array name="pref_example_list_values">
+        <item>com.madhead.tos.zh</item>
+        <item>com.madhead.tos.zh.ex</item>
+        <item>com.tencent.tmgp.madhead.tos</item>
+        <item>com.madhead.tos.en</item>
+        <item>com.madhead.tos.ko</item>
+    </string-array>
+
+
+    <string name="commadheadtoszh">Google Play版</string>
+    <string name="commadheadtoszhex">MYCARD官網版</string>
+    <string name="comtencent">中國騰訊版</string>
+    <string name="commadheadtosen">國際官方英文版</string>
+    <string name="commadheadtosko">Korean Version</string>
+
+
+    <string name="filemanger_title">默認檔案位置(開發中)</string>
+    <string name="filemanger">當前為默認資料夾，當選擇時在會在選擇資料夾底下創建/madchya</string>
+
+    <string name="google_play_title">幫我們打氣</string>
+    <string name="google_play">懇求五顆星 :D</string>
+
+    <string name="welecome_madchya">感謝各位多年來的支持，希望這次的改版你們會喜歡!，也非常抱歉因為太多事情導致經過這麼久才進行改版，此次改版已將所有的程式完全重新改寫，如果您有任何建議或是發現任何bug，都可以來信詢問，再次感謝您!</string>
+    <string name="welecome_title">歡迎您</string>
+    <string name="welecome_setting">第一次請進入設定</string>
+
+    <string name="renewaccount_title">重新讀取帳號</string>
+    <string name="renewaccount_content">能夠重新讀取帳號資料夾內的每筆帳號資料</string>
+    <string name="renewaccount_already">已經重新讀取資料，請返回察看</string>
+
+    <string name="pay_title">贊助我們</string>
+    <string name="pay_content">如果您很喜歡這份程式，請您支持我們開發出更多程式，您的一份便當錢，是支持每個Coder最大的一份鼓勵，購買後會移除您的廣告，並在路徑後，顯示贊助版，最後不管如何，還是感謝各位的支持。</string>
+    <string name="certain">確定</string>
+    <string name="cencle">取消</string>
+
+    <string name="pay_complete">感謝您的購買，您的支持會成為我們的動力</string>
+
+    <string name="addanewaccount">新增帳號</string>
+    <string name="addanewaccount_conetnt">為您的帳號取一個名字</string>
+
+    <string name="changeaccount">修改名稱</string>
+    <string name="changeaccount_content">可以為您的帳號修改一個新的名稱</string>
+
+    <string name="deletad">移除廣告</string>
+    <string name="cleartos">清除神魔資料</string>
+    <string name="version">版本: </string>
+    <string name="path">路徑: </string>
+    <string name="pro">pro</string>
+
+    <string name="buildfailed">帳號檔創建失敗</string>
+    <string name="buildoks">帳號檔創建成功</string>
+</resources>
